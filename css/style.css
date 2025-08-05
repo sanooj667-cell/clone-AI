@@ -1,0 +1,18 @@
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Urbanist", sans-serif;
+}
+
+.section1{
+
+    background-image: url("/ai-tool-website-asset/images/home-bg.png") ;
+}
+.head1{
+     background: linear-gradient(90deg, #6b7aff, #ff02fb);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+} 
